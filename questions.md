@@ -21,7 +21,7 @@
 <!--SQLlite的連接方式 -->
 1.Flask-SQLAlchemy 輸入 pip install Flask-SQLAlchemy （在vue環境安裝)
 2.設定資料庫,建立資料庫模型,建立資料庫表.加入資料到資料庫, 更新資料庫中的資料 大致上這些就可以了
-<!--MySQL連接方式 -->
+<!--MySQL連接方式 -->  
 1.導入了 SQLAlchemy 和 Flask 模組
 2.創建了一個 SQLAlchemy 物件，用於與資料庫進行交互
 3.創建了一個 Flask 應用程式物件
